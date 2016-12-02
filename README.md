@@ -3,4 +3,4 @@ Comparison of k-NN and Random Forests algorithms on the Breast Cancer Wisconsin 
 
 Authors:Hannes Draxl and Ryan Nazareth
 
-notebook version of the code stored in html file named code_liverscript.hmtl 
+notebook version of the code stored in html file named code_livescript.hmtl 
